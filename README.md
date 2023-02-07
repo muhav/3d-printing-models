@@ -12,4 +12,4 @@
 ### 鸣谢 Special Thanks
 
 - **Materialise Software**  
-  <img src="https://www.materialise.com/themes/itr_theme/img/materialise-logo.svg" width=300>
+  <img src="https://www.materialise.com/assets/materialise-logo.svg" width=300>
